@@ -15,7 +15,7 @@ function OtherUserWishlist({user, id}) {
             <p className="txt--title">
                 {
                     user.wishlist.length > 0 ? (`Make ${user.name} dreams come true with one of the gifts from this list`) :
-                    (`${user.name} have not added a wishlist yet`)
+                    (`${user.name} has not added a wishlist yet`)
                 }
             </p>
             <GiftList wishes={wishes} wishFuction={markAsBought} other={true}/>

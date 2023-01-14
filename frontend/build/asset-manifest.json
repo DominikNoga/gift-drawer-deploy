@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7aac48ee.css",
-    "main.js": "/static/js/main.957a5547.js",
+    "main.css": "/static/css/main.96214a76.css",
+    "main.js": "/static/js/main.56e8b066.js",
+    "static/media/santa.png": "/static/media/santa.7934ed6792f09b793c09.png",
+    "static/media/reindeer.png": "/static/media/reindeer.65f6c4cce1f24a97292e.png",
     "static/media/bg__giftBlue.jpg": "/static/media/bg__giftBlue.41dcca0488ecf32cb0b4.jpg",
     "index.html": "/index.html",
-    "main.7aac48ee.css.map": "/static/css/main.7aac48ee.css.map",
-    "main.957a5547.js.map": "/static/js/main.957a5547.js.map"
+    "main.96214a76.css.map": "/static/css/main.96214a76.css.map",
+    "main.56e8b066.js.map": "/static/js/main.56e8b066.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aac48ee.css",
-    "static/js/main.957a5547.js"
+    "static/css/main.96214a76.css",
+    "static/js/main.56e8b066.js"
   ]
 }
