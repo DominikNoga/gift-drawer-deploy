@@ -3,7 +3,8 @@ import {Link, useNavigate} from 'react-router-dom'
 import EventService from "../features/eventService";
 import {toast} from 'react-toastify'
 function JoinEvent() {
-    const {id=""} = JSON.parse(localStorage.getItem('eventData')) || "";
+    const {id} = JSON.parse(localStorage.getItem('eventData')) || "";
+    console.log(id)
     const navigate = useNavigate();
     const [formData, setFormData] = useState({
       _id:id || "",
