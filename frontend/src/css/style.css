@@ -648,6 +648,7 @@ header .header__link {
   place-self: start;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   gap: 1em;
 }
 

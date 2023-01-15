@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bbfb4a9.css",
-    "main.js": "/static/js/main.9c376901.js",
+    "main.css": "/static/css/main.e80927bb.css",
+    "main.js": "/static/js/main.cb637571.js",
     "static/media/santa.png": "/static/media/santa.7934ed6792f09b793c09.png",
     "static/media/reindeer.png": "/static/media/reindeer.65f6c4cce1f24a97292e.png",
     "index.html": "/index.html",
-    "main.7bbfb4a9.css.map": "/static/css/main.7bbfb4a9.css.map",
-    "main.9c376901.js.map": "/static/js/main.9c376901.js.map"
+    "main.e80927bb.css.map": "/static/css/main.e80927bb.css.map",
+    "main.cb637571.js.map": "/static/js/main.cb637571.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bbfb4a9.css",
-    "static/js/main.9c376901.js"
+    "static/css/main.e80927bb.css",
+    "static/js/main.cb637571.js"
   ]
 }

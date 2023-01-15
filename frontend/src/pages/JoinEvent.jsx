@@ -62,7 +62,7 @@ function JoinEvent() {
                   value={formData.password}
                   onChange={onChange}
                   required
-                  placeholder="password..."
+                  placeholder="Password..."
               />
               <button className="btn--form">Join event</button>
           </form>
